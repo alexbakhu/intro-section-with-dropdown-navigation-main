@@ -1,0 +1,51 @@
+.div1{
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.p1{
+    color:hsl(0, 0%, 41%) ;   
+}
+.div2{
+    justify-content: space-between;
+    display: flex;    
+    gap: 10px;
+    align-items: center;
+
+}
+.div3{
+    align-items: center;
+    display:flex;
+    gap: 10px;
+}
+
+.p2{
+    border: 2px solid  hsl(0, 0%, 51%);    
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.main{
+    display: flex;
+    padding: 150px;
+
+}
+.img1{
+   height:550px ;
+   width: 500px;
+}
+button{
+     background-color: black;
+    color: white;
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;
+
+}
+.img2{
+
+    padding:30px  ;
+}
